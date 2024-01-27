@@ -24,7 +24,9 @@
     "r3f-perf": "^6.7.0",
     "react": "18.2.0",
     "react-dom": "18.2.0",
+    "react-responsive": "^9.0.2",
     "react-router-dom": "^6.11.0",
+    "react-spinners": "^0.13.8",
     "three": "^0.151.3"
   },
   "devDependencies": {
