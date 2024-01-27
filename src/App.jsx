@@ -2,7 +2,7 @@ import React, { Suspense, useState, useEffect } from "react";
 import { Canvas } from "@react-three/fiber";
 import { OrbitControls, Loader } from '@react-three/drei';
 import Model from "./Model";
-
+import { useMediaQuery } from 'react-responsive';
 
 
 const Scene = () => {
